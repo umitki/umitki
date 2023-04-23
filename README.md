@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/umit.kirenci/)) 
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/umit.kirenci/)) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://www.linkedin.com/in/umitkirenci/)) 
-
+-->
 
 
 <!--//![Github stats 1](https://github-readme-stats.vercel.app/api?username=umitki&show_icons=true&theme=gradient)--> 
